@@ -17,6 +17,7 @@ This draft list of Open Metaverse platforms is a subset of the larger effort of 
 | Dreamwave | https://dreamwave.live/ | Dreamwave experiences are web-based venues where your audience can Learn more about our custom projects, or host events in our ready-made worlds. | | |
 | Edorble	| https://www.edorble.com | Open Source Framework for learning in Social Virtual (Reality) Environments. | | |
 | FrameVR	 | https://learn.framevr.io | Teaching Materials Beyond 2D Images And Videos. Create a virtual classroom in seconds right in your browser with Frame. Join in VR. Frictionless. 24-7 Open Space. Web based VR app. | | |
+| Hiber3D	| https://hiber3D.com  | An embeddable 3D web world creation suite for coders and non-coders.  | | |
 | Hyperfy	| https://hyperfy.io | Explore and build the metaverse with others, instantly on the web. | | |
 | JanusXR	| https://www.janusvr.com | JanusXR re-imagines webpages as collaborative 3D webspaces interconnected by portals. | | |
 | Juicyverse | https://www.starburst.com | Fruit-flavored candy brand Starburst's direct-to-consumer promotional and shopping experience in The Mallart of MetaVRse - TheMall.io | | |
